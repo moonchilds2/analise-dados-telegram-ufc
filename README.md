@@ -18,7 +18,7 @@ O objetivo principal é exercitar os conceitos de manipulação de dados, transf
 * **Jupyter Notebook:** Como ambiente de desenvolvimento e documentação.
 
 ## 📂 Estrutura do Repositório
-
+ ```
 .
 ├── data/
 │   └── raw/
@@ -28,7 +28,7 @@ O objetivo principal é exercitar os conceitos de manipulação de dados, transf
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+ ```
 ## 🚀 Como Usar
 
 Para replicar esta análise, siga os passos abaixo:
