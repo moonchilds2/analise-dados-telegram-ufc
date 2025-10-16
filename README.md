@@ -6,7 +6,7 @@
 
 ## 📝 Descrição do Projeto
 
-Este repositório documenta o processo completo de tratamento, limpeza e enriquecimento de dados aplicado ao dataset `fakeTelegram.BR_2022.csv`, como parte da avaliação da disciplina de Introdução à Ciência de Dados.
+Este repositório documenta o processo completo de tratamento, limpeza e enriquecimento de dados aplicado ao dataset `fakeTelegram.BR_2022.csv`, como parte da avaliação da disciplina de Introdução à Mineração e Ciência de Dados.
 
 O objetivo principal é exercitar os conceitos de manipulação de dados, transformando um conjunto de dados brutos em uma base limpa, consistente e pronta para análises mais profundas. O trabalho abrange desde a identificação e tratamento de valores ausentes e duplicados até a engenharia de novos atributos (features) para extrair mais valor do conteúdo textual das mensagens.
 
