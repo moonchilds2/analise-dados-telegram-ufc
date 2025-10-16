@@ -1,7 +1,9 @@
 # Análise e Limpeza de Dados: Dataset fakeTelegram.BR_2022
 
 **Disciplina:** CKP9011 - Introdução à Ciência de Dados / CK0223 - Mineração de Dados
+
 **Instituição:** Universidade Federal do Ceará (UFC)
+
 **Atividade:** Lista de Exercícios 1 - Tratamento de Dados
 
 ## 📝 Descrição do Projeto
