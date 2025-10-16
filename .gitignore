@@ -1,0 +1,23 @@
+# Ignorar a pasta de ambiente virtual
+.venv/
+venv/
+env/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de checkpoint do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos de sistema operacional e de IDEs
+.DS_Store
+.vscode/
+
+# Ignorar a pasta de dados (IMPORTANTE!)
+# Datasets grandes não devem ser enviados para o GitHub.
+# O README explicará como obter o arquivo.
+data/
+
+# Ignorar arquivos de configuração de ambiente (se você usar)
+.env
