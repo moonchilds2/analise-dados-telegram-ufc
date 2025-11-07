@@ -1,4 +1,4 @@
-# Análise de Dados de Mensagens do Telegram (Listas 1 e 2)
+# Análise de Dados de Mensagens do Telegram
 
 **Disciplina:** CKP9011 - Introdução à Ciência de Dados / CK0223 - Mineração de Dados
 
