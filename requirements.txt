@@ -1,2 +1,6 @@
 pandas
 numpy
+duckdb
+fastparquet
+scikit-learn
+nltk
